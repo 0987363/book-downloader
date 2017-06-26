@@ -1,10 +1,11 @@
 [
     {
-        "site": "*.qidian.com",
-        "directory_begin": "xxx",
+        "site": "*.bibige",
+        "directory_begin": "<div id=\"list\">",
         "directory_end": "xxx",
         "text_begin": "xxx",
-        "text_end": "xxx"
+        "text_end": "xxx",
+        "class": "box_con"
     }
 ]
 

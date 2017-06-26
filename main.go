@@ -1,17 +1,11 @@
 package main
 
 import (
-	log "github.com/Sirupsen/logrus"
-
 	"runtime"
+	"fmt"
 	"time"
-)
-
-// Exported onstants for storing build information
-var (
-	BuildVersion string
-	BuildDate    string
-	BuildCommit  string
+	"flag"
+	"log"
 )
 
 func init() {
@@ -19,15 +13,24 @@ func init() {
 	runtime.GOMAXPROCS(runtime.NumCPU())
 }
 
-func main() {
-	cmd.BuildInfo.Version = BuildVersion
-	cmd.BuildInfo.Date = BuildDate
-	cmd.BuildInfo.Commit = BuildCommit
 
-	if err := cmd.RootCmd.Execute(); err != nil {
-		log.Fatalln(err)
+func main() {
+	var config = flag.String("c", "./config.json", "Rule config file")
+	var directory = flag.String("d", "", "xiaoshuo directory page url")
+	flag.Parse()
+
+	if *directory == "" || *config == "" {
+		log.Panic("Need valid derectory, ", *directory, *config)
 	}
 
+	rules := ReadRules(*config)
 
+	rule := FindRule(rules, *directory)
+	if rule == nil {
+		log.Panic("Unknown site.")
+	}
+	fmt.Println("Found rule:", *rule)
+
+	Server(rule, *directory)
 
 }
