@@ -1,12 +1,25 @@
 [
     {
-        "site": "*.bibige",
+        "site": "*.qidian.com",
         "directory_begin": "<div id=\"list\">",
         "directory_end": "xxx",
         "text_begin": "xxx",
         "text_end": "xxx",
-        "class": "box_con"
+        "class": [
+            "div.volume",
+            "ul.cf"
+        ]
+    }, {
+        "site": "*.biquge",
+        "directory_begin": "<div id=\"list\">",
+        "directory_end": "xxx",
+        "text_begin": "xxx",
+        "text_end": "xxx",
+        "class": [
+            "div.box_con"
+        ]
     }
+
 ]
 
 

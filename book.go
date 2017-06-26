@@ -10,6 +10,7 @@ type Rule struct {
 	DirectoryEnd string		`json:"directory_end"`
 	TextBegin string		`json:"text_begin"`
 	TextEnd string			`json:"text_end"`
+	Class []string			`json:"class"`
 }
 
 func FindRule(rules []*Rule, url string) *Rule {
