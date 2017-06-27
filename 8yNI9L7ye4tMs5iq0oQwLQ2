@@ -1,0 +1,233 @@
+<!DOCTYPE html><html><head>    <meta charset="UTF-8">    <title>牧神记_第二章 四灵血_起点中文网_小说下载</title>    <meta name="description" content="牧神记最新章节阅读，牧神记是一部玄幻小说,由宅猪创作,起点提供首发更新。第十四章 元气淬体(2017.06.20)">    <meta name="keywords" content="牧神记,最新,最新章节,玄幻小说,阅读">    <meta name="robots" content="all">    <meta name="googlebot" content="all">    <meta name="baiduspider" content="all">    <meta http-equiv="mobile-agent" content="format=wml; url=http://m.qidian.com">    <meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.qidian.com">    <meta http-equiv="mobile-agent" content="format=html5; url=http://h5.qidian.com/bookstore.html">    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">    <meta name="renderer" content="webkit" />    <script>        document.domain = 'qidian.com';    </script>    <script>        var speedTimer = [],            speedZero = new Date().getTime();    </script>    <script>    //遇到cookie tf=1的话留在本站，否则跳转移动站    if (getCookie('tf') != 1) {        //判断是以下设备后跳转到m站        if (navigator.userAgent.match(/(iPhone|iPod|Android)/i)) {            location.href = "//m.qidian.com"        }    }else {        // M站设置了一年，这里fixed        setCookie('tf', 1, 'qidian.com', '/', 0);    }    // start 防劫持    //设置cookie    function setCookie(name, value, domain, path, expires) {        if(expires){            expires = new Date(+new Date() + expires);        }        var tempcookie = name + '=' + escape(value) +                ((expires) ? '; expires=' + expires.toGMTString() : '') +                ((path) ? '; path=' + path : '') +                ((domain) ? '; domain=' + domain : '');        //Ensure the cookie's size is under the limitation        if(tempcookie.length < 4096) {            document.cookie = tempcookie;        }    }    //获取cookie    function getCookie(name) {        var arr, reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)");        if (arr = document.cookie.match(reg))            return (arr[2]);        else            return null;    }    //创建并发送请求    function createSender(url){        var img = new Image();        img.onload = img.onerror = function(){            img = null;        };        img.src = url;    };    (function(){        /*         *防劫持逻辑所需参数在此处设置参数即可         *cookieName:用于记录连续被劫持的次数，为防止死循环，cookie值为3以上则不进行url重置         *cookieDomain:cookie所在的域         *reportUrl:非连续性劫持时上报的接口地址【如无需上报，可不填】         *reportUrl2：连续性劫持时上报的接口地址【如无需上报，可不填】         */        var cookieName = 'hiijack';        var cookieDomain = '.qidian.com';        var reportUrl = '//book.qidian.com/ajax/safe/hiijackReport?times=1&_csrfToken='+ getCookie('_csrfToken')||'';        var reportUrl2 = '//book.qidian.com/ajax/safe/hiijackReport?times=3&_csrfToken='+ getCookie('_csrfToken')||'';        //判断是否被iframe        if (top.location.href !== self.location.href) {            //用于记录被劫持的次数            var countHijack;            //如果未设置cookie，则需要set一下cookie，否则获取此cookie的值            if(!getCookie(cookieName)){                setCookie(cookieName,0 ,cookieDomain, '', 30*24*60*60*1000);                countHijack = 0;            }else{                countHijack = parseInt(getCookie(cookieName));            }            //如果连续被劫持的次数大于等于3次，则发请求上报此情况,否则上报非连续性的情况,同时累加被劫持次数、重置当前url            if(countHijack >= 3){                reportUrl2 && reportUrl2!='' && createSender(reportUrl2);            }else{                reportUrl && reportUrl!=''&& createSender(reportUrl);                countHijack ++;                setCookie(cookieName, countHijack ,cookieDomain, '', 30*24*60*60*1000);                top.location = self.location.href;            }        }        //每次成功进入页面则计数清0        setCookie(cookieName, 0 ,cookieDomain, '', 30*24*60*60*1000);    })();    //end 防劫持</script><link data-ignore="true" rel="shortcut icon" type="image/x-icon" href="//qidian.gtimg.com/qd/favicon/qd_icon.0.2.ico"><link data-ignore="true" rel="Bookmark" type="image/x-icon" href="//qidian.gtimg.com/qd/favicon/qd_icon.0.2.ico">    
+<link rel="stylesheet" data-ignore="true" href="//qidian.gtimg.com/c/=/qd/css/lbfUI/css/icon.0.65.css,/qd/css/lbfUI/css/Drag.0.51.css,/qd/css/lbfUI/css/Checkbox.0.65.css,/qd/css/reset.0.66.css,/qd/css/global.0.40.css,/qd/css/font.0.74.css,/qd/css/module.01.5.css,/qd/css/footer.0.68.css,/qd/css/read.0.50.css,/qd/css/layout.0.67.css,/qd/css/qd_popup.0.73.css,/qd/css/book_popup.0.53.css,/qd/css/vote_popup.0.54.css" />
+</head>
+<body class="theme-0 "><div class="share-img">    <img src="//qidian.qpic.cn/qdbimg/349573/1009704712/300" width="300" height="300"></div><div class="wrap">            <div class="read-header" id="readHeader" data-l1="40">
+    <div class="wrap-center cf">
+        <div class="left-nav fl">
+            <div class="logo">
+                <a class="logo-ico" href="javascript:"></a>
+            </div>
+            <ul>
+                <li class="site" data-l2="1">
+                    <a class="pin-logo" href="//www.qidian.com" target="_blank" data-eid="qd_R01"><span></span></a>
+                    <div class="dropdown">
+                        <a href="//www.qdmm.com" target="_blank" data-eid="qd_R02">起点女生网</a>
+                        <a href="//chuangshi.qq.com" target="_blank" data-eid="qd_R03">创世中文网</a>
+                        <a href="//yunqi.qq.com" target="_blank" data-eid="qd_R04">云起书院</a>
+                    </div>
+                </li>
+                <li class="app" data-l2="2">
+                    <cite>手机阅读</cite>
+                    <div class="dropdown scan-app hidden">
+                        <div class="box">
+                            <h3>扫描下载起点读书客户端</h3>
+                            <img src="//qidian.gtimg.com/qd/images/qd_qrcode.0.2.png">
+                            <a href="https://itunes.apple.com/cn/app/id534174796?mt=8" target="_blank" data-eid="qd_R05"><em class="iconfont">&#xe64c;</em>App store 下载</a>
+                            <a href="http://download.qidian.com/apknew/source/QDReader.apk" target="_blank" data-eid="qd_R06"><em class="iconfont">&#xe64a;</em>Android 下载</a>
+                        </div>
+                    </div>
+                </li>
+                <li id="j_nearRead" data-l2="3">
+                    <cite>最近阅读</cite>
+                </li>
+                <li class="quick-nav" data-l2="4">
+                    <cite><i class="iconfont">&#xe661;</i>快速导航</cite>
+                    <div class="dropdown type-list">
+                        <div class="type-box">
+                            <h3>分类频道</h3>
+                            <a href="//xuanhuan.qidian.com" data-eid="qd_R13" target="_blank">玄幻</a>
+                            <a href="//qihuan.qidian.com" data-eid="qd_R14" target="_blank">奇幻</a>
+                            <a href="//wuxia.qidian.com" data-eid="qd_R15" target="_blank">武侠</a>
+                            <a href="//xianxia.qidian.com" data-eid="qd_R16" target="_blank">仙侠</a>
+                            <a href="//dushi.qidian.com" data-eid="qd_R17" target="_blank">都市</a>
+                            <a href="//xianshi.qidian.com" data-eid="qd_R18" target="_blank">现实</a>
+                            <a href="//lishi.qidian.com" data-eid="qd_R20" target="_blank">历史</a>
+                            <a href="//junshi.qidian.com" data-eid="qd_R19" target="_blank">军事</a>
+                            <a href="//youxi.qidian.com" data-eid="qd_R21" target="_blank">游戏</a>
+                            <a href="//tiyu.qidian.com" data-eid="qd_R22" target="_blank">体育</a>
+                            <a href="//kehuan.qidian.com" data-eid="qd_R23" target="_blank">科幻</a>
+                            <a href="//lingyi.qidian.com" data-eid="qd_R24" target="_blank">灵异</a>
+                            <a href="//2cy.qidian.com" class="ecy" data-eid="qd_R26" target="_blank">二次元</a>
+                            <a href="//fin.qidian.com" data-eid="qd_R27" target="_blank">完本</a>
+                            <a href="//www.qdmm.com" data-eid="qd_R25" target="_blank">女生</a>
+                            <a href="//www.qidian.com/book/sanjiang" data-eid="qd_R28" target="_blank">三江</a>
+                        </div>
+                        <div class="type-box">
+                            <h3>其它</h3>
+                            <a href="//write.qq.com/college" data-eid="qd_R29" target="_blank">投稿</a>
+                            <a href="//wwwploy.qidian.com/HelpCenter/default.aspx?type=0&categoryid=58&parentid=53" data-eid="qd_R30" target="_blank">签约</a>
+                            <a href="//wwwploy.qidian.com/ploy/20150520qdsp/theme1.htm" data-eid="qd_R31" target="_blank">福利</a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="read-login fr">
+            <ul>
+                <li id="min-search" data-l2="5">
+                    <form action="//se.qidian.com" method="get" target="_blank">
+                        <input class="submit-input" type="submit" id="searchSubmit" data-eid="qd_R32">
+                        <input id="pin-input" class="pin-input hide" name="kw"  type="text" placeholder="万界天尊">
+                        <label id="pin-search" for="searchSubmit" data-eid="qd_R32"><em class="iconfont"></em></label>
+                    </form>
+                </li>
+                <li class="line"></li>
+                <li class="sign-out" data-l2="6">
+                    <a id="pin-login" href="javascript:" data-eid="qd_R33">登录</a>
+                    <a class="reg" href="//passport.qidian.com/reg.html?appid=10&areaid=1&target=iframe&ticket=1&auto=1&autotime=30&returnUrl=http%3A%2F%2Fwww.qidian.com" target="_blank" data-eid="qd_R34">注册</a>
+                </li>
+                <li class="sign-in hidden" data-l2="6">
+                    <a href="//me.qidian.com/Index.aspx" target="_blank" data-eid="qd_R36"><i id="nav-user-name"></i><span></span></a>
+                    <div class="dropdown">
+                        <a href="//me.qidian.com/profile/info.aspx" target="_blank" data-eid="qd_R37">账户设置</a>
+                        <a href="//me.qidian.com/account/info.aspx" target="_blank" data-eid="qd_R38">账务中心</a>
+                        <a href="//me.qidian.com/author/authorDoor.aspx" target="_blank" data-eid="qd_R39">作家专区</a>
+                        <a id="exit" href="javascript:" data-eid="qd_R40">退出</a>
+                    </div>
+                </li>
+                <li data-l2="6"><a href="//www.qidian.com/charge/meRedirect" target="_blank" data-eid="qd_R35">充值</a></li>
+            </ul>
+        </div>
+    </div>
+</div>        <div id="j_bodyRecWrap" class="hidden"></div>    <div class="crumbs-nav" data-l1="1">
+    
+    <a href="//www.qidian.com" target="_blank" data-eid="qd_G01">首页</a><em class="iconfont">&#xe621;</em>
+    <a href="//xuanhuan.qidian.com" target="_blank" data-chanid="21" id="j_chanId" data-eid="qd_G02">玄幻</a><em class="iconfont">&#xe621;</em>
+    <a href="//a.qidian.com/?chanId=21&subCateId=8" target="_blank">东方玄幻</a><em class="iconfont">&#xe621;</em>
+    
+    <a class="act" href="//book.qidian.com/info/1009704712" target="_blank" id="bookImg" data-bid="1009704712">牧神记</a>
+</div>    
+<div class="read-main-wrap font-family01" style="font-size:18px" id="j_readMainWrap">        <div id="j_chapterBox" data-l1="3">                        
+<div class="text-wrap" id="chapter-375005811" data-cid="375005811" data-purl="//read.qidian.com/chapter/rCo0cx0UxW08kjk6dUsm_A2/j5xtNOEEJvq2uJcMpdsVgA2" data-nurl="//read.qidian.com/chapter/rCo0cx0UxW08kjk6dUsm_A2/DIny_2SUFcfM5j8_3RRvhw2" data-info="0|375005753|375100036|0|0" >
+    <div class="main-text-wrap" >
+        <div class="text-head">
+            <div class="guide-box">
+                <cite></cite>
+                <p>点击书签后，可收藏每个章节的书签，“阅读进度”可以在个人中心书架里查看</p>
+            </div>
+            <a class="book-mark" href="javascript:" title="书签" data-cid="375005811" data-bid="1009704712" data-auid="4362125" data-eid="qd_R104"></a>
+            <h3 class="j_chapterName">第二章 四灵血</h3>
+            <div class="text-info cf">
+                <div class="info fl">
+                    <a href="//book.qidian.com/info/1009704712" target="_blank" data-bid="1009704712" data-auid="4362125" data-eid="qd_R102"><em class="iconfont">&#xe60c;</em>牧神记</a>
+                    <a href="//me.qidian.com/authorIndex.aspx?id=4362125" target="_blank" data-bid="1009704712" data-auid="4362125" data-eid="qd_R103"><em class="iconfont">&#xe650;</em>宅猪</a>
+                    <i><em class="iconfont">&#xe64f;</em><span class="j_chapterWordCut">3212</span>字</i>
+                    <i><em class="iconfont">&#xe653;</em><span class="j_updateTime">2017.06.20 20:00</span></i>
+                </div>
+            </div>
+        </div>
+        <div class="read-content j_readContent">
+            <p>　　司婆婆拉着他兴冲冲的往村里走，笑道：“别看了，快点过来，今天是你的大日子！村长，马爷，都出来！”<p>　　村里燃起了篝火，村长又被人用担架抬了出来，沉声道：“四灵都找到了？”<p>　　“都找到了。”<p>　　独臂的马爷拖来了一条几丈长的大蛇，碧青色，也还活着，泛着腥气，只是被马爷单手捏住七寸，动弹不得。<p>　　哑巴铁匠则提来了一头大鸟，那头大鸟比哑巴还要高大一些，但是被绑住了翅膀和双脚。那大鸟挣扎时，羽毛中竟然有火光飞出，噼里啪啦作响，很是吓人。<p>　　瞎子则搬来了一只比桌子面还要大的巨龟，这头巨龟不知活了多少年，龟壳都翻起了金黄色。巨龟四肢都缩在壳里，时不时偷偷的探出一只爪子，秦牧看到它的爪子探出壳，爪子下便生出水汽，似乎能够将这头金龟托起，驾着水汽逃之夭夭。<p>　　只是金龟被瞎子用鱼钩穿住鼻孔，无法逃走。<p>　　“青龙，白虎，朱雀，玄武，这四灵的血虽然无法弄到，不过用青蛟蛇、铁骨虎、雷鸟和金龟代替，也可以炼出一点灵血来，足够用了。”<p>　　村长向村里的屠户点了点头，屠户咧嘴笑了笑，双手撑地上前，他是个只剩下上半身的汉子，腰部以下被人砍断，伤口平整。<p>　　四口缸放在青蛇老虎雷鸟和金龟前，屠户一刀一只，给这些猛兽放血，过了不久，四个猎物鲜血流尽。<p>　　“药师。”村长说。<p>　　村里的药师上前，他没有脸，脸上的皮似乎是被人切了下来，一起切下来的还有他的鼻子，以及半张嘴的上唇下唇，是村里最丑陋可怕的人，不过秦牧则觉得药师爷爷是村里对他最和蔼的人。<p>　　药师上前，取出四片奇特的红色叶子，每片叶子上都有一颗雪白的虫卵。药师在每个缸里各投一片叶子，便见虫卵破开，蚕虫趴在叶子上喝血。<p>　　这些蚕虫见风就长，喝的血越多，身体便越大，很快四口缸里的血都被喝干，每口缸里都剩下一只又肥又大的虫子。<p>　　药师抓了把像盐一样的白色晶沫撒在缸里，秦牧看到四条又肥又大的虫子竟然在飞速缩小，不由啧啧称奇。<p>　　过了片刻，药师将四条虫子捡了起来，每条虫子都只有巴掌大小。只见他取出四个白瓷杯，抓住一只虫子用力挤了挤，那虫子吱吱叫，嘴里流出一杯琥珀般晶莹剔透的血浆。<p>　　药师如法炮制，将其他三只虫子肚子里的血挤出，将四个杯子放在秦牧面前，摇头道：“毕竟不是真正的灵兽，能够提炼出的灵血只有这么点儿。”<p>　　“牧儿，人体内藏有七大宝库，灵胎，五曜，六合，七星，天人，生死，神桥，这七大宝库天生就是被封闭的，像是被封闭起来的宝藏，因此被称作七大神藏。”<p>　　村长声音带着几分威严，在篝火的映照下，脸庞忽明忽暗，沉声道：“七大神藏处在封闭的状态，需要武者自己打开，阻挡武者开启神藏的障碍便是壁，灵胎壁，五曜壁，六合壁，七星壁，天人壁，生死壁，神桥壁。破开这七壁的过程，称为破壁。”<p>　　独臂马爷轻轻抚摸秦牧的头，笑道：“壁破不开，便无法修炼。有的人上天眷顾，一出生灵胎壁便是破的，天生便开启了灵胎神藏，这种体质，被称作灵体，天生神佑，是修炼的苗子。拥有灵体的人，天分要比普通人高出不知凡几，修炼起来事半功倍。灵胎有着四种属性，因此灵体也有四种，青龙灵体，白虎灵体，朱雀灵体，玄武灵体。想要检查是否是灵体，就需要这四灵血。”<p>　　药师道：“倘若你是青龙灵体，饮下青龙灵血后，便会激发青龙之气。马爷便是青龙灵体。”<p>　　独臂马爷解开衣裳，赤膊站在秦牧面前，转身背对着他，低喝一声。<p>　　秦牧立刻看到马爷的背后浮现出一道青气，从尾骨直达后脑，青气渐渐变化，变成一条青龙，鳞须纤毫毕现，一条龙爪延伸到马爷的独臂，还有两条龙爪缠绕在马爷的双腿上。<p>　　“这就是青龙灵体。”<p>　　独臂马爷穿上衣衫：“司老太婆是白虎灵体。”<p>　　司婆婆白他一眼，道：“老娘可不脱衣裳便宜你们这些老鬼。我用气显形给秦牧看看。”<p>　　她身躯微震，身后隐约传来一声虎啸，一头丈二吊睛白虎若隐若现出现在她身后。<p>　　“村子里的所有人，都是灵体。当年我们也曾荣耀过，但现在只不过都是一群又老又废的老头子老太婆。”<p>　　司婆婆笑道：“我们这些残老废没什么能够给你的，这四杯四灵血便是激发灵体的材料，倘若你是白虎灵体，喝下白虎灵血便会激发你灵胎中的白虎之气，若是朱雀灵体，朱雀灵血便可以让你灵胎中的朱雀之气活跃起来。玄武灵体也是如此。”<p>　　“喝吧。”<p>　　村长、司婆婆等人齐刷刷的向秦牧看来，露出期待之色。<p>　　秦牧心里直打鼓，虽然他跟随药师学习采药炼药的时候也被灌了不知多少奇怪的东西，但都没有这次奇怪。<p>　　他端起一个白瓷杯，里面的灵血火烫，是一杯朱雀灵血，秦牧一饮而尽，只觉一道火线入喉，直达四肢百骸，让他恍惚间觉得自己体内似乎燃起熊熊烈火，烧得自己的血都仿佛要沸腾了一般。<p>　　过了片刻，这种燃烧感散去。<p>　　“哑巴，他是朱雀灵体吗？”村长问道。<p>　　哑巴铁匠摇了摇头。<p>　　村长道：“秦牧，继续。”<p>　　秦牧印下第二个白瓷杯，里面是白虎灵血，喝到口中仿佛是在喝混着铁渣的铜汁铁水，涩，刺痛，入体之后全身都是刺痛感。不久，刺痛感消失。<p>　　“不是白虎灵体。”司婆婆摇了摇头，有些失望。<p>　　“秦牧，第三杯。”村长沉声道。<p>　　秦牧喝下第三杯大青蛇提炼出的青龙灵血，这杯灵血让他只觉肌肉又鼓又胀，血液又鼓又胀，五脏六腑被挤得难受，不过肿胀感也很快消失。<p>　　马爷露出失望之色，摇头道：“不是青龙灵体。”<p>　　“那么一定是玄武灵体。”药师难得的露出一丝笑容，面孔显得更加狰狞。<p>　　秦牧饮下最后一杯玄武灵血，玄武灵血让他身子轻盈起来，仿佛浸泡到江水之中，然而这种感觉也很快消失。<p>　　“他也不是玄武灵体。”药师摇头。<p>　　篝火旁的村民们都沉默下来，屠户道：“这么说来，他就是普普通通的普通人。”<p>　　司婆婆突然落泪，哽咽道：“我们都老了，废了，我们如果死了，他活不下去的，这里这么危险，他一天都活不下去……”<p>　　秦牧拉着她的手，低声道：“婆婆，别哭，婆婆和爷爷都是好人，都不会死……”<p>　　“好人？嘿嘿……”<p>　　马爷自嘲一笑，道：“我们这些废人被逼到大墟中，苟延残喘活到现在，大墟太危险，没有我们，牧儿的确很难活下去。我们应该把他送出大墟，外面安全很多……”<p>　　屠户冷冰冰道：“送他出去，我们会被仇家发现，都会死，他也会被我们连累，也会死。”<p>　　残老村再次沉默下来。突然村长道：“好。”<p>　　司婆婆纳闷：“什么好？”<p>　　村长露出笑容：“我说他的体质好，是个好苗子。”<p>　　屠户、药师等人都是一怔，不明其意，村长笑道：“我觉得牧儿应该是另一种体质，结合四大体质之长的霸体！”<p>　　“霸体？”司婆婆等人露出疑惑之色，他们都是见多识广之辈，但是也没有听说过霸体这个名字。<p>　　“对，是霸体。”<p>　　村长笑道：“普通的灵血很难激发霸体，需要集齐真正的四大灵兽之血，才能让霸体显现出来。大墟中没有四大灵兽，但是灵兽的后代却并不难寻，你们继续捕捉猛虎大蛇，炼出灵血，喝得多了，自然能够将他的霸体激发出来。”<p>　　村长很有威信，村里缺胳膊少腿的老头老太太听了都很是开心，司婆婆笑道：“明天我也陪死瘸子去捉老虎！牧儿，你也早点睡，明天还要喝灵血！”<p>　　众人散去，药师和哑巴铁匠将村长送回房间，哑巴离开，药师却没有走，低声道：“从来没有过霸体。”<p>　　村长点头：“是我信口说的。我不这么说，村里的人都很难活下去。”<p>　　药师怔了怔。残老村的村民各有来历，但都被逼得不得不进入大墟来到残老村，苟延残喘，他们本来怨天怨地怨苍生，怨气太重，能够活到现在，不能不说秦牧也有功劳。<p>　　正是这个手足健全的小娃娃的到来，冲散了众人心中的怨气，大家抚养秦牧长大，都将这个小男孩当成自己最亲的人，秦牧维系着残老村的村民脆弱的心灵。<p>　　倘若村民们知道秦牧只是最普通的体质，无法独自在大墟中存活，只怕这些家伙都会失控，不知道会做出什么事来。<p>　　药师面无表情道：“但是你瞒不了一辈子，我们迟早都会老死，只剩下秦牧。”<p>　　“所以你不要告诉他从来没有过霸体，永远也不要告诉他。”<p>　　村长沉声道：“让他相信，他就是独一无二的霸体！”<p>　　药师怔了怔，仔仔细细看了看他的脸庞。村长的脸庞在昏暗的油灯下显得格外有魅力，笑道：“我想看看，一个普通人在无以伦比的信念下会不会超凡脱俗，做出我们这些灵体也做不出的事情来！说不定将来，他真的能够走出一条凡体即霸体的道路来！”<p>　　药师呆了呆：“凡体即霸体？”<p>　　村长重重点头：“只要有信念，凡体即霸体！”
+        </div>
+        
+        <div class="admire-wrap">
+            <a class="report-btn j_reportBtn" href="javascript:" data-eid="qd_R106"><em class="iconfont">&#xe657;</em>举报</a>
+            <div class="read-btn-box">
+                <a class="admire lang j_admireBtn" href="javascript:" data-showtype="3" data-eid="qd_R105">赞赏<span class="j_admireNum"></span></a>
+            </div>
+        </div>
+        
+        
+        
+    </div>
+</div>        </div>        
+<div class="chapter-control dib-wrap" data-l1="3">
+    
+    <a id="j_chapterPrev" data-eid="qd_R107"    href="//read.qidian.com/chapter/rCo0cx0UxW08kjk6dUsm_A2/j5xtNOEEJvq2uJcMpdsVgA2">上一章</a><span>|</span>
+    <a href="//book.qidian.com/info/1009704712#Catalog" target="_blank" data-eid="qd_R108">目录</a><span>|</span>
+    <a id="j_chapterNext" href="//read.qidian.com/chapter/rCo0cx0UxW08kjk6dUsm_A2/DIny_2SUFcfM5j8_3RRvhw2" data-eid="qd_R109" >下一章</a>
+</div>
+        <div class="la-ball-pulse j_chapterLoad hidden">            <span></span>            <span></span>            <span></span>        </div>    </div></div><div class="float-wrap" id="j_floatWrap" data-l1="2">
+    <div class="left-bar-list" id="j_leftBarList">
+        <dl>
+            <dd id="j_navCatalogBtn" data-eid="qd_R42" >
+                <a href="javascript:"><i><em class="iconfont">&#xe619;</em><span>目录</span></i></a>
+                <div class="guide-box">
+                    <cite></cite>
+                    目录
+                </div>
+            </dd>
+            <dd id="j_navSettingBtn">
+                <a href="javascript:"><i><em class="iconfont">&#xe65b;</em><span>设置</span></i></a>
+                <div class="guide-box">
+                    <cite></cite>
+                    设置
+                </div>
+            </dd>
+            <dd id="j_phoneRead" data-eid="qd_R83">
+                <a href="javascript:"><i><em class="iconfont">&#xe65c;</em><span>手机</span></i></a>
+                <div class="guide-box">
+                    <cite></cite>
+                    手机阅读
+                </div>
+            </dd>
+            <dd data-eid="qd_R84">
+                <a class="add-book" href="javascript:" data-bookid="1009704712"><i><em class="iconfont">&#xe654;</em><span>书架</span></i></a>
+                <div class="guide-box">
+                    <cite></cite>
+                    加入书架
+                </div>
+            </dd>
+            <dd data-eid="qd_R85">
+                <a href="//book.qidian.com/info/1009704712" target="_blank"><i><em class="iconfont">&#xe652;</em><span>书页</span></i></a>
+                <div class="guide-box">
+                    <cite></cite>
+                    返回书页
+                </div>
+            </dd>
+            <dd id="j_navGameBtn" data-eid="qd_R86">
+                
+                <a href="javascript:"><i><em class="iconfont">&#xe65e;</em><span>游戏</span></i></a>
+                <div class="guide-box">
+                    <cite></cite>
+                    起点游戏
+                </div>
+            </dd>
+            
+        </dl>
+    </div>
+    <div class="right-bar-list" id="j_rightBarList">
+        <dl>
+            <dd id="navReward" data-showtype="3" data-aid="qd_R87">
+                <a href="javascript:"><i><em class="iconfont">&#xe635;</em><span>打赏</span></i></a>
+                <div class="guide-box">
+                    <cite></cite>
+                    打赏
+                </div>
+            </dd>
+            <dd id="navTicket" data-showtype="2" data-aid="qd_R88">
+                <a href="javascript:"><i><em class="iconfont">&#xe65d;</em><span>投票</span></i></a>
+                <div class="guide-box">
+                    <cite></cite>
+                    投票
+                </div>
+            </dd>
+            <dd id="j_discussHref" data-eid="qd_R89">
+                
+                <a href="//forum.qidian.com/NewForum/List.aspx?forumId=1009704712" target="_blank"><i><em class="iconfont">&#xe658;</em><span>评论</span></i></a>
+                <div class="guide-box">
+                    <cite></cite>
+                    评论
+                </div>
+            </dd>
+            <dd class="go-top" id="j_goTop" title="返回顶部" data-eid="qd_R90">
+                <a href="javascript:"><i><em class="iconfont">&#xe651;</em></i></a>
+            </dd>
+            
+        </dl>
+    </div>
+    <div class="guide-btn-wrap">
+        <a class="guide-btn" id="j_guideBtn" href="javascript:" data-eid="qd_R41">指南</a>
+    </div>
+</div><div id="userLevel" class="hidden"></div><div id="authorId" data-authorid="4362125" class="hidden"></div><script data-ignore="true" src="//qidian.gtimg.com/lbf/1.0.4/LBF.js?max_age=31536000"></script><script>    LBF.config({"paths":{"site":"//qidian.gtimg.com/qd/js","qd":"//qidian.gtimg.com/qd"},"vars":{"theme":"//qidian.gtimg.com/qd/css"},"combo":true,"debug":false});    //全局的通用数据都放g_data变量里    var g_data = {};    //环境变量，会按照环境选择性打log    g_data.envType = 'pro';    //用作统计PV    g_data.pageId = 'qd_P_read';    //环境域名    g_data.domainSearch = 'se.qidian.com';    //阅读页配置参数    g_data.readSetting = {        "t" : 0,        "ft" : 0,        "fs" : 3,        "w" : 1,        "rt" : 0,        "autoBuy" : 0    };    //书信息    g_data.bookInfo = {        "bookId":1009704712,        "bookName":'牧神记',        "authorId":4362125,        "authorName": '宅猪'    };    //非vip章节,背景广告            g_data.bgOpsInfo = {"id":327,"title":"","adCategoryName":"广告","colorType":0,"startTime":1498528800,"endTime":1498615200,"type":1,"adType":1,"adImgUrl":"//qidian.qpic.cn/qidian_common/349573/59d954d49f1f1160516160e5e61de95f/0","adJumpUrl":"http://cpgame.qd.game.qidian.com/Home/Index/directLogin/name/sgqxz/way/1?qd_game_key=sgqxz1920x1057jt&qd_dd_p1=327","hasAd":1};       //页面初始化章节信息    g_data.chapter = {        //页面进入加载的章节id        id:375005811,        //章节vip标识        vipStatus : 0,        //上一章id        prevId : 375005753,        //下一章id        nextId :375100036,        //本章节是否已经订阅        isBuy: 0    };    //页面进入时,下一章是否是vip章节    g_data.nextChapterVip = 0;    //章节底部广告    g_data.bottomOps = {"hasAd":0};    //打赏参数    g_data.pageJson = {        // 是否是VIP书籍，传入js，在弹窗时需要判断，如果不是VIP看不到月票Tab        isVip:0,        //是否已登录，传入js，EJS后加载模板判断是否显示        isLogin:0,        //是否签约作品，传入js，EJS后加载模板判断是否显示        isSign:1,        //是否要送月票 传入js， EJS后加载模板判断使用        noRewardMonthTic:1,        //获得bookId的json格式，传入js，EJS后加载模板中可以直接使用        bookId:1009704712,        //获得签约状态，传入js，EJS后加载弹窗下载使用        signStatus:'Ａ级',        //作家专区链接环境变量传入EJS模板        mePreFix:'//me.qidian.com',        //讨论区连接环境变量传入EJS模板        forumPreFix:'//forum.qidian.com'    };    // 区分女生网 && 起点中文网    g_data.isWebSiteType = 1;</script><script>   LBF.use(['lib.jQuery'], function ($) {    window.$ = $;   });</script><script>   LBF.use([ 'monitor.SpeedReport', 'qd/js/read.qidian.com/index.0.83.js'], function (SpeedReport, Index) {        // 页面逻辑入口        new Index({});        $(window).on('load.speedReport', function () {            // speedTimer[onload]            speedTimer.push(new Date().getTime());            var f1 = 7718, // china reading limited's ID                f2 = 219, // site ID                f3 = 39; // page ID            // chrome & IE9 Performance API            SpeedReport.reportPerformance({                flag1: f1,                flag2: f2,                flag3IE: f3,                rate:0.1,                flag3Chrome: f3            });            // common speedTimer:['dom ready', 'onload']            var speedReport = SpeedReport.create({                flag1: f1,                flag2: f2,                flag3: f3,                rate:0.1,                start: speedZero            });            // chrome & IE9 Performance API range 1~19, common speedTimer use 20+            for (var i = 0; i < speedTimer.length; i++) {                speedReport.add(speedTimer[i], i + 20)            }            // http://isdspeed.qq.com/cgi-bin/r.cgi?flag1=7718&flag2=224&flag3=1&1=38&2=38&…            speedReport.send();        })    });    // speedTimer[dom ready], put it before </body>    speedTimer.push(new Date().getTime());</script><script>    (function(){        var bp = document.createElement('script');        var curProtocol = window.location.protocol.split(':')[0];        if (curProtocol === 'https') {            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        }        else {            bp.src = 'http://push.zhanzhang.baidu.com/push.js';        }        var s = document.getElementsByTagName("script")[0];        s.parentNode.insertBefore(bp, s);    })();</script><script>
+    var _mtac = {};
+    (function() {
+        var mta = document.createElement("script");
+        mta.src = "//pingjs.qq.com/h5/stats.js?v2.0.2";
+        mta.setAttribute("name", "MTAH5");
+        mta.setAttribute("sid", "500451537");
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(mta, s);
+    })();
+</script>
+</body></html>
